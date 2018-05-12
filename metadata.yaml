@@ -1,0 +1,39 @@
+_repo: Three-HatsA-Farcical-Comedy-in-Three-Acts_26157
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Hennequin, Alfred
+    aliases:
+    - Debrun, Alfred
+    - Hennequin, Alfred Néoclès
+    - Hennequin, Alfred Neocles
+    birthdate: 1842
+    deathdate: 1887
+    gutenberg_agent_id: '31837'
+    url: http://www.gutenberg.org/2009/agents/31837
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shirley, Arthur
+    birthdate: 1853
+    deathdate: 1925
+    gutenberg_agent_id: '31833'
+    url: http://www.gutenberg.org/2009/agents/31833
+description: Adapted by Arthur Shirley from Les trois chapeaux by Hennequin.
+gutenberg_issued: '2008-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PR'
+title: 'Three Hats
+
+  A Farcical Comedy in Three Acts'
+url: http://www.gutenberg.org/ebooks/26157
