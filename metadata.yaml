@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '31833'
     url: http://www.gutenberg.org/2009/agents/31833
 description: Adapted by Arthur Shirley from Les trois chapeaux by Hennequin.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26157#Three-HatsA-Farcical-Comedy-in-Three-Acts
 gutenberg_issued: '2008-07-31'
 gutenberg_type: Text
 identifiers:
